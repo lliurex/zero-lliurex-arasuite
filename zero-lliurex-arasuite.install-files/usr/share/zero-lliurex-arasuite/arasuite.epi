@@ -1,0 +1,7 @@
+{
+	"type":"apt",
+	"pkg_list": [{"name":"arasuite","key_store":"zero-lliurex-arasuite"}],
+	"script": {"name":"/usr/share/zero-lliurex-arasuite/arasuite_script","remove":true},
+	"zomando":"zero-lliurex-arasuite"
+	
+	}

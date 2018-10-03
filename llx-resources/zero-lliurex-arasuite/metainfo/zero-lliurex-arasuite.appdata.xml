@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component type="desktop-application">
+<id>zero-lliurex-arasuite</id>
+<metadata_license>CC0-1.0</metadata_license>
+<name>zero-lliurex-arasuite</name>
+<name xml:lang="es">Instalador del Arasuite</name>
+<name xml:lang="ca_ES.UTF-8@valencia">Instal·lador de l'Arasuite</name>
+<name xml:lang="ca_ES@valencia">Instal·lador de l'Arasuite</name>
+<name xml:lang="ca_ES">Instal·lador de l'Arasuite</name>
+<summary>AraSuite Installer</summary>
+<summary xml:lang="es">Herramientas para trabajar con comunicadores pictográficos</summary>
+<summary xml:lang="ca_ES.UTF-8@valencia">Eines per a treballar amb comunicadors pictogràfics</summary>
+<summary xml:lang="ca_ES8@valencia">Eines per a treballar amb comunicadors pictogràfics</summary>
+<summary xml:lang="ca_ES">Eines per a treballar amb comunicadors pictogràfics</summary>
+<description>
+<p>AraSuite is a set of tools (previously as separate projects: AraWord, TICO, AraBoard...) useful for working with people with disabilities, particularly those related with communication.  That requires the use of aumentative and adaptative communication systems that combine pictograms and words as related concepts. On the one hand, TICO is a tool for the design and execution of interactive communication boards. Communication boards are highly used in augmentative and alternative communication (AAC) environments. On the other hand, AraWord is a word processor    that combines pictograms and text to help disabled people</p>
+<p xml:lang="es">Arasuite es un conjunto de herramientas (anteriormente eran proyectos separados: AraWord, TICO, AraBoard...) útiles para trabajar con personas con problemas relaciones con la comunicación. Estas personas requieren del uso de sistemas de comunicación aumentativa y adaptativa que relacionan conceptos con palabras y pictogramas. Por un lado TICO es una herramienta para el diseño y ejecución de tableros de comunicación interactivos. Estos tableros son ampliamente utilizados en entornos de comunicación aumentativa y alternativa (AAC). Por otro lado Araword es un procesador de textos que combina pictogramas y texto para ayudar a personas con problemas de comunicación.</p>
+<p xml:lang="ca_ES.UTF-8@valencia">L'AraSuite és un conjunt d'eines (anteriorment es tractava de projectes separats: AraWord, TICO, AraBoard ...) útils per a treballar amb persones amb discapacitat, especialment aquelles relacionades amb problemes en la comunicació. Aquestes persones requereixen l'ús de sistemes de comunicació augmentativa i adaptativa que relacionen conceptes amb paraules i pictogrames. D'una banda, el TICO és una eina per al disseny i execució de taulers de comunicació interactius. Els taulers de comunicació són molt utilitzats en entorns de comunicació augmentativa i alternativa (AAC). D'altra banda, l'AraWord és un processador de textos que combina pictogrames i text per a ajudar persones amb problemes de comunicació</p>
+<p xml:lang="ca_ES@valencia">L'AraSuite és un conjunt d'eines (anteriorment es tractava de projectes separats: AraWord, TICO, AraBoard ...) útils per a treballar amb persones amb discapacitat, especialment aquelles relacionades amb problemes en la comunicació. Aquestes persones requereixen l'ús de sistemes de comunicació augmentativa i adaptativa que relacionen conceptes amb paraules i pictogrames. D'una banda, el TICO és una eina per al disseny i execució de taulers de comunicació interactius. Els taulers de comunicació són molt utilitzats en entorns de comunicació augmentativa i alternativa (AAC). D'altra banda, l'AraWord és un processador de textos que combina pictogrames i text per a ajudar persones amb problemes de comunicació</p>
+<p xml:lang="ca_ES">L'AraSuite és un conjunt d'eines (anteriorment es tractava de projectes separats: AraWord, TICO, AraBoard ...) útils per a treballar amb persones amb discapacitat, especialment aquelles relacionades amb problemes en la comunicació. Aquestes persones requereixen l'ús de sistemes de comunicació augmentativa i adaptativa que relacionen conceptes amb paraules i pictogrames. D'una banda, el TICO és una eina per al disseny i execució de taulers de comunicació interactius. Els taulers de comunicació són molt utilitzats en entorns de comunicació augmentativa i alternativa (AAC). D'altra banda, l'AraWord és un processador de textos que combina pictogrames i text per a ajudar persones amb problemes de comunicació</p>
+</description>
+<categories>
+<category>Lliurex</category>
+<category>Zomando</category>
+<category>Utility</category>
+</categories>
+<icon type="cached">arasuite</icon>
+
+<keywords>
+<keyword>zero</keyword>
+<keyword>lliurex</keyword>
+<keyword>arasuite</keyword>
+<keyword>zero-lliurex-arasuite</keyword>
+<keyword>Zomando</keyword>
+</keywords>
+<keywords xml:lang="es">
+<keyword>Instalador</keyword>
+<keyword>del</keyword>
+<keyword>Arasuite</keyword>
+<keyword>Zomando</keyword>
+</keywords>
+<keywords xml:lang="qcv">
+<keyword>Instal·lador</keyword>
+<keyword>l'Arasuite</keyword>
+<keyword>Zomando</keyword>
+</keywords>
+<keywords xml:lang="ca_ES">
+<keyword>Zomando</keyword>
+
+</keywords>
+</component>
