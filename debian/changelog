@@ -1,0 +1,184 @@
+zero-lliurex-arasuite (2.2.5) xenial; urgency=medium
+
+  * Implemented changes to use EPI
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Fri, 27 Apr 2018 10:48:38 +0200
+
+zero-lliurex-arasuite (2.2.4.1) xenial; urgency=high
+
+  * Cleaned and moved almost all to deb package
+
+ -- Jose A. Murcia <joamuran@gmail.com>  Wed, 15 Nov 2017 14:23:03 +0100
+
+zero-lliurex-arasuite (2.2.3.2-liurex1) xenial; urgency=medium
+
+  * Improved translations
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 29 Jun 2017 12:28:39 +0200
+
+zero-lliurex-arasuite (2.2.3.2) xenial; urgency=medium
+
+  * Removed deprecated locale
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 22 Jun 2017 09:19:23 +0200
+
+zero-lliurex-arasuite (2.2.3.1) xenial; urgency=high
+
+  * Added launche for plate
+
+ -- joamuran <joamuran@gmail.com>  Fri, 16 Jun 2017 14:34:06 +0200
+
+zero-lliurex-arasuite (2.2.3) xenial; urgency=medium
+
+  * Added metainfo
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 01 Jun 2017 08:17:38 +0200
+
+zero-lliurex-arasuite (2.2.2) xenial; urgency=high
+
+  * Fixed some translations
+  * Fixed documents languages to catalan for araword
+
+ -- Jose A. Murcia <jose@gmail.com>  Mon, 13 Feb 2017 14:06:13 +0100
+
+zero-lliurex-arasuite (2.2.1) xenial; urgency=high
+
+  * Added valencian to locales
+  * Fixed version according to Arasuite version
+  * Check updates when launching app
+
+ -- Jose A. Murcia <jamuran@gmail.com>  Thu, 09 Feb 2017 15:26:07 +0100
+
+zero-lliurex-arasuite (1.2-3) xenial; urgency=medium
+
+  *  updated arasuite to version 2.2.3
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Mon, 12 Dec 2016 10:12:18 +0100
+
+zero-lliurex-arasuite (1.2-2) xenial; urgency=medium
+
+  * updated arasuite to version 2.2.2
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Wed, 26 Oct 2016 13:06:58 +0200
+
+zero-lliurex-arasuite (1.2-1lliurex2) xenial; urgency=medium
+
+   * Added exit status for installations 
+   * Reviewed notifications timeouts 
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Fri, 08 Jul 2016 10:30:33 +0200
+
+zero-lliurex-arasuite (1.2-1lliurex1) xenialD; urgency=medium
+
+  * Add check download error
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Wed, 29 Jun 2016 17:01:19 +0200
+
+zero-lliurex-arasuite (1.2-1) xenial; urgency=high
+
+  * Add zero-lliurex-wget to zmd and new version from arasuite 2.2.1 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Mon, 23 May 2016 13:16:13 +0200
+
+zero-lliurex-arasuite (1.2) xenial; urgency=high
+
+  * Using zero-lliurex-wget instead on zero-lliurex-axel
+
+ -- joamuran <joamuran@gmail.com>  Wed, 09 Mar 2016 12:48:53 +0100
+
+zero-lliurex-arasuite (1.1) xenial; urgency=medium
+
+  * Fixed depends (llxcfg-runtime)
+  * Fixed name of file to dowload
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 08 Feb 2016 08:23:46 +0100
+
+zero-lliurex-arasuite (1.0) xenial; urgency=medium
+
+  * First release to xenial
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 02 Feb 2016 17:22:13 +0100
+
+zero-lliurex-arasuite (0.86) trusty; urgency=high
+
+  * Added translation and explanation
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Mon, 25 May 2015 12:40:35 +0200
+
+zero-lliurex-arasuite (0.85) trusty; urgency=high
+
+  * Bug fixed in net down 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Mon, 20 Apr 2015 09:47:35 +0200
+
+zero-lliurex-arasuite (0.84) trusty; urgency=high
+
+  * Updating zmd 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Thu, 26 Mar 2015 09:32:31 +0100
+
+zero-lliurex-arasuite (0.83) trusty; urgency=high
+
+  * Add configured banner to zero-center instruction in zmd
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Thu, 26 Feb 2015 11:32:32 +0100
+
+zero-lliurex-arasuite (0.82) trusty; urgency=high
+
+  * Updated 2.1.1 for java 1.6 or java 1.7
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Thu, 26 Feb 2015 09:39:41 +0100
+
+zero-lliurex-arasuite (0.81) trusty; urgency=high
+
+  * Updated dependences
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Tue, 24 Feb 2015 14:36:22 +0100
+
+zero-lliurex-arasuite (0.8) trusty; urgency=high
+
+  * Add new version of arasuite 2.1.0 and add zero-lliurex-axel to download it. 
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Tue, 24 Feb 2015 13:53:59 +0100
+
+zero-lliurex-arasuite (0.7) trusty; urgency=medium
+
+  * Upgrading for trusty
+
+ -- Daniel Duran Vecino <daduve@gmail.com>  Mon, 19 Jan 2015 16:09:07 +0100
+
+zero-lliurex-arasuite (0.6) precise; urgency=high
+
+  * Updated version to 1.2.0 
+
+ -- Angel Berlanas Vicente <angel.berlanas@gmail.com>  Wed, 03 Sep 2014 17:28:25 +0200
+
+zero-lliurex-arasuite (0.5) precise; urgency=low
+
+  * Banner is now rendered at build time from the source svg
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Tue, 27 May 2014 11:46:57 +0200
+
+zero-lliurex-arasuite (0.4) precise; urgency=high
+
+  * fixed tryexec in desktops
+
+ -- joamuran <joamuran@gmail.com>  Thu, 30 Jan 2014 09:10:16 +0100
+
+zero-lliurex-arasuite (0.3) precise; urgency=high
+
+  * Fixed email address
+
+ -- joamuran <joamuran@gmail.com>  Wed, 29 Jan 2014 14:05:15 +0100
+
+zero-lliurex-arasuite (0.2) precise; urgency=high
+
+  * Added icons and menu entries
+
+ -- joamuran <joamuran@gmail.com>  Wed, 29 Jan 2014 14:01:21 +0100
+
+zero-lliurex-arasuite (0.1) precise; urgency=low
+
+  * Initial release.
+
+ -- joamuran <joamuran@gmail.com>  Tue, 28 Jan 2014 13:05:27 +0100
