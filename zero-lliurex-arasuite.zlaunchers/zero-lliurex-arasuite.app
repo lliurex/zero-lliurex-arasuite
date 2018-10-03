@@ -10,6 +10,6 @@ Icon=zero-lliurex-arasuite
 Category=Software
 ScriptPath=zero-lliurex-arasuite.zmd
 Groups=adm;admins;teachers
-Using=pe
+Using=pkexec
 Service=True
 Locks=zero-lliurex-arasuite
