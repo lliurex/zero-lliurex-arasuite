@@ -1,3 +1,9 @@
+zero-lliurex-arasuite (2.2.15) bionic; urgency=medium
+
+  * Initital release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 03 Oct 2018 08:53:49 +0200
+
 zero-lliurex-arasuite (2.2.5) xenial; urgency=medium
 
   * Implemented changes to use EPI
