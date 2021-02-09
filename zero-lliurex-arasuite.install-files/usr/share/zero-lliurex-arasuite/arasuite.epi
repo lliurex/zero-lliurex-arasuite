@@ -1,6 +1,6 @@
 {
 	"type":"apt",
-	"pkg_list": [{"name":"arasuite","key_store":"zero-lliurex-arasuite","custom_icon":"arasuite_arasuite2.2.4.png"}],
+	"pkg_list": [{"name":"arasuite","key_store":"zero-lliurex-arasuite","custom_name":"Arasuite: tools for alternative communication","custom_icon":"arasuite_arasuite2.2.4.png"}],
 	"script": {"name":"/usr/share/zero-lliurex-arasuite/arasuite_script","remove":true},
 	"zomando":"zero-lliurex-arasuite"
 	
