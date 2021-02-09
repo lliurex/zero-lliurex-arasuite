@@ -1,3 +1,9 @@
+zero-lliurex-arasuite (2.3.18) focal; urgency=medium
+
+  * Initial release for focal
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 09 Feb 2021 11:45:18 +0100
+
 zero-lliurex-arasuite (2.2.18) bionic-updates; urgency=medium
 
   * Added custom name
