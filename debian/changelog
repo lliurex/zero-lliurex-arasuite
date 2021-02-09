@@ -1,3 +1,9 @@
+zero-lliurex-arasuite (2.2.18) bionic-updates; urgency=medium
+
+  * Added custom name
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 09 Feb 2021 11:37:43 +0100
+
 zero-lliurex-arasuite (2.2.17) bionic; urgency=medium
 
   * Added custom icon to show in epi
