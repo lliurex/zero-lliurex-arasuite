@@ -1,10 +1,10 @@
 Name=zero-lliurex-arasuite
 Name[es]=Instalador del Arasuite
-Name[qcv]=Instal·lador de l'Arasuite
+Name[ca@valencia]=Instal·lador de l'Arasuite
 Name[ca_ES]=Instal·lador de l'Arasuite
 Comment=AraSuite Installer
 Comment[es]=Herramientas para trabajar con comunicadores pictográficos
-Comment[qcv]=Ferramentes per a treballar amb comunicadors pictogràfics
+Comment[ca@valencia]=Ferramentes per a treballar amb comunicadors pictogràfics
 Comment[ca_ES]=Ferramentes per a treballar amb comunicadors pictogràfics
 Icon=zero-lliurex-arasuite
 Category=Software
