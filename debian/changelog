@@ -1,3 +1,9 @@
+zero-lliurex-arasuite (2.2.19) bionic-updates; urgency=medium
+
+  * Fixed app file
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 16 Jun 2021 12:58:32 +0200
+
 zero-lliurex-arasuite (2.2.18) bionic-updates; urgency=medium
 
   * Added custom name
