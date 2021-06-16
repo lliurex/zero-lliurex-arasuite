@@ -1,3 +1,9 @@
+zero-lliurex-arasuite (2.3.20) focal; urgency=medium
+
+  * Fixed zero app file again
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 16 Jun 2021 13:48:31 +0200
+
 zero-lliurex-arasuite (2.3.19) focal; urgency=medium
 
   * Fixed zero app file
