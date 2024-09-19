@@ -1,3 +1,9 @@
+zero-lliurex-arasuite (2.23.22) noble; urgency=medium
+
+  * Initial release for Noble
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 19 Sep 2024 12:23:08 +0200
+
 zero-lliurex-arasuite (2.13.22) jammy; urgency=medium
 
   * Initial release for Jammy
