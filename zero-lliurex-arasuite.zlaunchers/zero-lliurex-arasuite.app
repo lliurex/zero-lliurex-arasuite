@@ -15,3 +15,4 @@ Groups=sudo;admins;teachers
 Using=pkexec
 Service=True
 Locks=zero-lliurex-arasuite
+Show=False
