@@ -1,3 +1,9 @@
+zero-lliurex-arasuite (2.23.24) noble; urgency=medium
+
+  * Hide installation from Zero-center.
+
+ -- Daniel Duran <daduve@gmail.com>  Fri, 02 May 2025 10:39:13 +0200
+
 zero-lliurex-arasuite (2.23.23) noble; urgency=medium
 
   * Unallow students
